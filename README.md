@@ -11,3 +11,17 @@ Favorite:
 Tag:
 - https://www.pexels.com/search/videos/interior%20design/
 - https://www.pexels.com/search/videos/girl/
+
+## for.Niche Market:
+### Weight Loss
+tag:
+- https://www.pexels.com/search/videos/mirror/
+- https://www.pexels.com/search/videos/looking%20at%20mirror/
+
+index:
+- https://www.pexels.com/video/woman-looking-at-herself-in-a-mirror-7802052/
+- https://www.pexels.com/video/woman-looking-at-herself-in-a-mirror-7802045/
+
+### Beauty & Self-Confidence
+- https://www.pexels.com/video/woman-looking-at-herself-in-the-mirror-8447485/
+- https://www.pexels.com/video/a-reflection-of-a-pretty-smiling-woman-in-a-mirror-8447488/
